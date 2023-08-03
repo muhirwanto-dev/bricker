@@ -1,0 +1,15 @@
+{
+	"string" : {
+		"app_name" : "My App",
+		"dev_name" : "developer",
+		"dev_mail" : "devmail@anymail.com",
+		"dev_realname" : "Developer Name",
+		"package_name" : "com.app.package",
+		"release_date" : "Month/31/1999",
+		"version_name" : "1.0.0"
+	},
+	
+	"integer" : {
+		"version_code" : 1
+	}
+}
